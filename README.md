@@ -1,5 +1,5 @@
 # now-github-starter
-
+1
 This is a simple project that makes a [static deployment](https://zeit.co/docs/deployment-types/static)
 to Now.
 
